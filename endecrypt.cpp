@@ -12,10 +12,8 @@ int encryption(char characters[],string text){
 	string translation;
 
 	cout << endl << "Encrypting the text: '" << text << "'" << endl;
-
 	cout << endl << endl << "---------------------------" << endl << endl; //just for decoration
-	
-	
+
 	for (int i = 0; i < text.length(); i++){
 		switch (text[i]){
 			case 'a':
