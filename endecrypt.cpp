@@ -1,3 +1,4 @@
+//This tool requires C++11 for cin.ignore() & getline(x,y) to work.
 #include <iostream>
 #include <string>
 #include <stdlib.h>
