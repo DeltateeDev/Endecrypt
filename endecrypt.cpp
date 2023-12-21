@@ -298,7 +298,7 @@ int main(){
 	short choice;
 	bool restarted = false;
 	
-	cout << "Endecrypt - Message Encryption & Decryption tool by Deltatee (VerWellick)" << endl;  //logo and description
+	cout << "Endecrypt - Message Encryption & Decryption tool by Deltatee" << endl;  //logo and description
 	cout << "____________________________________________________" << endl << endl;
 	
 	
